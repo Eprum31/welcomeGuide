@@ -11,7 +11,7 @@ On to the next one
 
 Next
 
-* Comment out this line of code *
+* Comment out this line of code
 
 Next
 
